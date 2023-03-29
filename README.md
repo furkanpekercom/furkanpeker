@@ -8,6 +8,6 @@
 
 <br />
 
-- 📝 Bazı konulardaki gelişmeleri ve düşüncelerimi [Blog](https://www.furkanpeker.com/) 'da bulabilirsiniz. [Linkedin](https://www.linkedin.com/in/nurettin-furkan-peker/) 'da beni bulabilirsiniz.
+- 📝 Bazı konulardaki gelişmeleri ve düşüncelerimi [Blog](https://www.furkanpeker.com/) 'da bulabilirsiniz. [Linkedin](https://www.linkedin.com/in/nurettin-furkan-peker/) 'de beni bulabilirsiniz.
 
 - 📫 Bana ulaşabilirsiniz. <a href="mailto:peker@furkanpeker.com">e-Posta</a> & [İletişim](https://www.furkanpeker.com/iletisim/)
